@@ -1,0 +1,171 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(255, 0, 0);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.titulo{
+    font-size: 60px;
+    color: rgba(14, 170, 40, 0.808);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.subtitulo{
+    font-size: 60px;
+    color: rgb(93, 95, 243);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+body{
+    background-image: url("fondo pou.jpg");
+    background-repeat: repeat;
+
+
+}
+
+.img1{
+    height: 311px;
+    width: 518px;
+    background-image: url("img 1.png");
+    background-repeat: no-repeat;
+
+}
+
+.img2{
+    height: 526px;
+    width: 878px;
+    background-image: url("img 2.webp");
+    background-repeat: no-repeat;
+
+}
+
+.img3{
+    height: 431px;
+    width: 459px;
+    background-image: url("img 3.gif");
+    background-repeat: no-repeat;
+
+}
+
+.img4{
+    height: 171px;
+    width: 435px;
+    background-image: url("img 4.png");
+    background-repeat: no-repeat;
+
+}
+
+.img5{
+    height: 579px;
+    width: 489px;
+    background-image: url("img 5.png");
+    background-repeat: no-repeat;
+
+}
+
+.img6{
+    height: 171px;
+    width: 314px;
+    background-image: url("img 6.png");
+    background-repeat: no-repeat;
+
+}
+
+.img7{
+    height: 300px;
+    width: 297px;
+    background-image: url("img 7.png");
+    background-repeat: no-repeat;
+
+}
+
+.imgbio1{
+    height: 784px;
+    width: 873px;
+    background-image: url("img bio 1.jpeg");
+    background-repeat: no-repeat;
+
+}
+
+.imgbio2{
+    height: 157px;
+    width: 326px;
+    background-image: url("img bio 2.jpeg");
+    background-repeat: no-repeat;
+
+}
+
+.imgbio3{
+    height: 157px;
+    width: 283px;
+    background-image: url("img bio 3.jpeg");
+    background-repeat: no-repeat;
+
+}
+
+.imgqui1{
+    height: 451px;
+    width: 393px;
+    background-image: url("img qui 1.png");
+    background-repeat: no-repeat;
+
+}
+
+.imgqui2{
+    height: 207px;
+    width: 285px;
+    background-image: url("img qui 2.png");
+    background-repeat: no-repeat;
+
+}
+
+.imgqui3{
+    height: 747px;
+    width: 908px;
+    background-image: url("img qui 3.png");
+    background-repeat: no-repeat;
+
+}
+
+.imgqui4{
+    height: 126px;
+    width: 297px;
+    background-image: url("img qui 4.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.imgqui5{
+    height: 211px;
+    width: 233px;
+    background-image: url("img qui 5.png");
+    background-repeat: no-repeat;
+
+}
+
+.imgqui6{
+    height: 312px;
+    width: 291px;
+    background-image: url("img qui 6.jpg");
+    background-repeat: no-repeat;
+
+}
+
+
