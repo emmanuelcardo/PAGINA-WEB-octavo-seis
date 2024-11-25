@@ -168,4 +168,144 @@ body{
 
 }
 
+.imgmat1{
+    height: 600px;
+    width: 746px;
+    background-image: url("img mat 1.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.imgmat2{
+    height: 880px;
+    width: 1024px;
+    background-image: url("img mat 2.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat3{
+    height: 283px;
+    width: 1024px;
+    background-image: url("img mat 3.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+
+.imgmat4{
+    height: 828px;
+    width: 1164px;
+    background-image: url("img mat 4.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat5{
+    height: 833px;
+    width: 1106px;
+    background-image: url("img mat 5.png");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat6{
+    height: 471px;
+    width: 928px;
+    background-image: url("img mat 6.png");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat7{
+    height: 362px;
+    width: 928px;
+    background-image: url("img mat 7.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat8{
+    height: 471px;
+    width: 928px;
+    background-image: url("img mat 8.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat9{
+    height: 802px;
+    width: 785px;
+    background-image: url("img mat 9.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat10{
+    height: 811px;
+    width: 1155px;
+    background-image: url("img mat 10.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat11{
+    height: 592px;
+    width: 1155px;
+    background-image: url("img mat 11.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat12{
+    height: 370px;
+    width: 1155px;
+    background-image: url("img mat 12.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat13{
+    height: 270px;
+    width: 1155px;
+    background-image: url("img mat 13.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+.imgmat14{
+    height: 576px;
+    width: 1155px;
+    background-image: url("img mat 14.jpg");
+    background-repeat: no-repeat;
+    float:center
+
+
+}
+
+
 
